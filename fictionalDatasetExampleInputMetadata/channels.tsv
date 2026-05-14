@@ -1,4 +1,4 @@
-name	type	units	description	signal_electrode	reference	group	status	low_cutoff	high_cutoff	someAdditionalColumn
+name	type	units	description	signal_electrode	reference	group	status	low_cutoff	high_cutoff	some_additional_column
 Ch1	EMG	mV	Monopolar surface EMG	E001	R1	Grid1	good	10	500	none
 Ch2	EMG	mV	Monopolar surface EMG	E002	R1	Grid1	good	10	500	none
 Ch3	EMG	mV	Monopolar surface EMG	E003	R1	Grid1	good	10	500	none
